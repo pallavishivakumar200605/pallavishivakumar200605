@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>- 🔭 I'm currently working on improving my programming skills.<br>- 🌱 I'm currently learning Python, Artificial Intelligence & Machine Learning.<br>- 🎓 I'm a BCA student passionate about technology and innovation.<br>- 👯 I'm looking to collaborate on Python and beginner-friendly AI/ML projects.<br>- 🤝 I'm looking for help with Machine Learning and problem-solving.<br>- 💬 Ask me about Python, BCA and technology.<br>- 🎯 My goal is to become an AI & ML Engineer.<br>- 🚀 I'm continuously learning, exploring and building new things.<br>- ⚡ - I love learning new technologies and turning ideas into reality!<br>- 📍 Based in Bengaluru, India.
+<br><br>- 🔭 I'm currently working on improving my programming skills.<br>- 🌱 I'm currently learning Python, Artificial Intelligence & Machine Learning.<br>- 🎓 I'm a BCA student passionate about technology and innovation.<br>- 👯 I'm looking to collaborate on Python and beginner-friendly AI/ML projects.<br>- 🤝 I'm looking for help with Machine Learning and problem-solving.<br>- 💬 Ask me about Python, BCA and technology.<br>- 🎯 My goal is to become an AI & ML Engineer.<br>- 🚀 I'm continuously learning, exploring and building new things.<br>- ⚡ I love learning new technologies and turning ideas into reality!<br>- 📍 Based in Bengaluru, India.
 
 
 ## 🌐 Socials:
